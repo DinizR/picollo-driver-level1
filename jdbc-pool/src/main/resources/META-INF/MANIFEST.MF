@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Jdbc-Pool-Interface
+Bundle-SymbolicName: Jdbc-Pool-Interface
+Bundle-Version: 1.0.0
+Import-Package: org.cobra.config.api,org.cobra.driver
+Export-Package: org.cobra.resource
+Driver-Type: Core

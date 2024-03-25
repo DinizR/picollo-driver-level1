@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Worker-Supplier-Interface
+Bundle-SymbolicName: org.cobra.interface.worker
+Bundle-Version: 1.0.0
+Import-Package: org.cobra.config.api,org.cobra.driver
+Export-Package: org.cobra.worker.api
+Driver-Type: Core
