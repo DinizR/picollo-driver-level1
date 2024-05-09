@@ -14,8 +14,6 @@
         <module>timer-supplier-interface</module>
         <module>worker-supplier-interface</module>
         <module>backend-supplier-interface</module>
-        <module>interaction-interface</module>
-        <module>cig-domain</module>
         <module>rest-resource-interface</module>
         <module>jdbc-pool</module>
     </modules>
