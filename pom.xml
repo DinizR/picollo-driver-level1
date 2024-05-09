@@ -17,7 +17,7 @@
         <module>rest-resource-interface</module>
         <module>jdbc-pool</module>
     </modules>
-
+<!-- -->
     <dependencies>
         <dependency>
             <groupId>org.eclipse.concierge</groupId>
