@@ -3,7 +3,7 @@
 */
 package org.picollo.timer.api;
 
-import org.cobra.timer.model.TriggerType;
+import org.picollo.timer.model.TriggerType;
 import org.picollo.config.api.AbstractConfigurableInterface;
 import org.picollo.config.api.ConfigurationException;
 import org.quartz.*;
