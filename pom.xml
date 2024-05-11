@@ -7,17 +7,13 @@
     <groupId>org.picollo</groupId>
     <artifactId>picollo-level1</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>level1</name>
 
     <modules>
         <module>timer-supplier-interface</module>
-        <module>worker-supplier-interface</module>
-        <module>backend-supplier-interface</module>
-        <module>rest-resource-interface</module>
-        <module>jdbc-pool</module>
     </modules>
-<!-- -->
+
     <dependencies>
         <dependency>
             <groupId>org.eclipse.concierge</groupId>
