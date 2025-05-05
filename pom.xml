@@ -7,7 +7,7 @@
     <groupId>org.picollo</groupId>
     <artifactId>picollo-level1</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.1</version>
+    <version>1.0.0</version>
     <name>level1</name>
 
     <modules>
