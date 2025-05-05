@@ -12,10 +12,6 @@
 
     <modules>
         <module>timer-supplier-interface</module>
-        <module>worker-supplier-interface</module>
-        <module>backend-supplier-interface</module>
-        <module>rest-resource-interface</module>
-        <module>jdbc-pool</module>
     </modules>
 
     <dependencies>
